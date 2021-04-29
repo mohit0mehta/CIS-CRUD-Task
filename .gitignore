@@ -4,3 +4,6 @@ venv
 db.sqlite3
 *.pyc
 *.jpg
+*.jpeg
+*.png
+migrations\
